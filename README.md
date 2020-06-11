@@ -11,7 +11,6 @@ This tool maps to these GSBPM sub-processes:
 
 To improve the tool, please request it by raising an issue and/or fork the repository and make the improvement yourself :)
 
-Step-by-step guide
-	Please see the "How to use" worksheet of the generator tool
+Step-by-step guide: See the link above to the full User Guide.
 
 David Barraclough
